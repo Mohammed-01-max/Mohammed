@@ -1,4 +1,4 @@
-!-- 🎯 Cool Banner -->
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/90/f2/62/90f262f3b1688ab70b3e9f8a08d01561.gif" width="100%" />
 </p>
